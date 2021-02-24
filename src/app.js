@@ -1,6 +1,7 @@
 import React from 'react';
 import OriginalComponent from './components/originalComponent';
 import './app.css';
+
 function Detail(props) {
 
   const _styles = {
